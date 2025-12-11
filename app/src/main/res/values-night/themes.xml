@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:tools="http://schemas.android.com/tools">
+    
+    <!-- Dark theme -->
+    <style name="Theme.Zipp" parent="Theme.Material3.Dark.NoActionBar">
+        <!-- Primary brand color -->
+        <item name="colorPrimary">@color/primary</item>
+        <item name="colorPrimaryDark">@color/primary_dark</item>
+        <item name="colorPrimaryContainer">@color/primary_container</item>
+        <item name="colorOnPrimary">@color/text_on_primary</item>
+        
+        <!-- Secondary brand color -->
+        <item name="colorSecondary">@color/secondary_light</item>
+        <item name="colorSecondaryContainer">@color/secondary</item>
+        <item name="colorOnSecondary">@color/text_on_secondary</item>
+        
+        <!-- Background and surface -->
+        <item name="android:colorBackground">#121212</item>
+        <item name="colorSurface">#1E1E1E</item>
+        <item name="colorSurfaceVariant">#2D2D2D</item>
+        
+        <!-- Status bar -->
+        <item name="android:statusBarColor">#121212</item>
+        <item name="android:navigationBarColor">#1E1E1E</item>
+        
+        <!-- Error -->
+        <item name="colorError">@color/error</item>
+    </style>
+    
+    <style name="Theme.Zipp.Splash" parent="Theme.Zipp">
+        <item name="android:windowBackground">@color/primary</item>
+        <item name="android:statusBarColor">@color/primary</item>
+        <item name="android:navigationBarColor">@color/primary</item>
+    </style>
+    
+    <style name="Theme.Zipp.Auth" parent="Theme.Zipp">
+        <item name="android:windowBackground">#1E1E1E</item>
+        <item name="android:statusBarColor">#1E1E1E</item>
+    </style>
+    
+</resources>

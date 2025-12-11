@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Zipp</string>
+    
+    <!-- Splash -->
+    <string name="splash_tagline">Comida rápida a tu puerta</string>
+    
+    <!-- Login -->
+    <string name="welcome_back">¡Bienvenido de vuelta!</string>
+    <string name="login_subtitle">Inicia sesión para continuar</string>
+    <string name="email">Correo electrónico</string>
+    <string name="password">Contraseña</string>
+    <string name="login">Iniciar sesión</string>
+    <string name="forgot_password">¿Olvidaste tu contraseña?</string>
+    <string name="no_account">¿No tienes cuenta?</string>
+    <string name="register_here">Regístrate aquí</string>
+    
+    <!-- Register -->
+    <string name="create_account">Crear cuenta</string>
+    <string name="register_subtitle">Únete a Zipp hoy</string>
+    <string name="name">Nombre</string>
+    <string name="last_name">Apellido</string>
+    <string name="phone">Teléfono</string>
+    <string name="confirm_password">Confirmar contraseña</string>
+    <string name="register">Registrarse</string>
+    <string name="already_have_account">¿Ya tienes cuenta?</string>
+    <string name="login_here">Inicia sesión aquí</string>
+    
+    <!-- Main -->
+    <string name="hello_user">Hola, %s</string>
+    <string name="what_to_eat">¿Qué deseas comer hoy?</string>
+    <string name="search_hint">Buscar restaurantes o comidas...</string>
+    <string name="categories">Categorías</string>
+    <string name="popular_restaurants">Restaurantes populares</string>
+    <string name="see_all">Ver todos</string>
+    <string name="nearby">Cerca de ti</string>
+    
+    <!-- Categories -->
+    <string name="cat_pizza">Pizza</string>
+    <string name="cat_burger">Hamburguesas</string>
+    <string name="cat_sushi">Sushi</string>
+    <string name="cat_mexican">Mexicana</string>
+    <string name="cat_chinese">China</string>
+    <string name="cat_dessert">Postres</string>
+    <string name="cat_drinks">Bebidas</string>
+    <string name="cat_healthy">Saludable</string>
+    
+    <!-- Restaurant -->
+    <string name="menu">Menú</string>
+    <string name="reviews">Reseñas</string>
+    <string name="info">Información</string>
+    <string name="add_to_cart">Agregar al carrito</string>
+    <string name="delivery_time">Tiempo de entrega</string>
+    <string name="min_order">Pedido mínimo</string>
+    <string name="delivery_fee">Costo de envío</string>
+    
+    <!-- Cart -->
+    <string name="my_cart">Mi carrito</string>
+    <string name="cart_empty">Tu carrito está vacío</string>
+    <string name="cart_empty_desc">Agrega deliciosos platillos de tus restaurantes favoritos</string>
+    <string name="explore_restaurants">Explorar restaurantes</string>
+    <string name="subtotal">Subtotal</string>
+    <string name="delivery">Envío</string>
+    <string name="total">Total</string>
+    <string name="checkout">Proceder al pago</string>
+    <string name="remove">Eliminar</string>
+    
+    <!-- Checkout -->
+    <string name="checkout_title">Finalizar pedido</string>
+    <string name="delivery_address">Dirección de entrega</string>
+    <string name="payment_method">Método de pago</string>
+    <string name="order_summary">Resumen del pedido</string>
+    <string name="place_order">Realizar pedido</string>
+    <string name="cash">Efectivo</string>
+    <string name="card">Tarjeta</string>
+    
+    <!-- Profile -->
+    <string name="profile">Perfil</string>
+    <string name="my_orders">Mis pedidos</string>
+    <string name="favorites">Favoritos</string>
+    <string name="addresses">Direcciones</string>
+    <string name="settings">Configuración</string>
+    <string name="help">Ayuda</string>
+    <string name="logout">Cerrar sesión</string>
+    
+    <!-- General -->
+    <string name="minutes">min</string>
+    <string name="free">Gratis</string>
+    <string name="currency_symbol">S/</string>
+</resources>

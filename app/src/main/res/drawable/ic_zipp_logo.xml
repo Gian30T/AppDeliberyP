@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="120dp"
+    android:height="120dp"
+    android:viewportWidth="120"
+    android:viewportHeight="120">
+
+    <!-- Lightning bolt shape -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M65,15L35,55L50,55L45,105L75,65L60,65L65,15Z" />
+    
+    <!-- Circle accent -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:fillAlpha="0.3"
+        android:pathData="M60,60m-50,0a50,50 0,1 1,100 0a50,50 0,1 1,-100 0"
+        android:strokeWidth="3"
+        android:strokeColor="#FFFFFF" />
+
+</vector>
+
+
+
